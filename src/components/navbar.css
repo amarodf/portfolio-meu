@@ -67,3 +67,16 @@ nav {
     color:  #e699a6;
     }
 
+@media only screen and (max-width: 949px) {
+    #navbar .logo {
+            display:none;
+        }
+
+    #navbar .nav_links {
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        margin: 0 auto;
+    }
+}
+

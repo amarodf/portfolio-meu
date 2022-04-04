@@ -94,21 +94,20 @@ function work() {
             HTML, CSS, Javascript e Chartjs.
           </small>
           <p>
-            This is a full-stack website that I made which lets the users read and post anonymous
-            messages and replies.
+            Dashboard responsivo com opção de modo escuro e sidebar interativa construído com HTML, CSS e JS, fabricação de gráficos a partir da biblioteca Chart.js
           </p>
         </Project>
         <Project
           title="Website Portfolio"
-          img={'https://user-images.githubusercontent.com/84079199/157728876-ae873347-a59d-4792-8fa1-2a8d731d037b.gif'}
+          img={'https://user-images.githubusercontent.com/84079199/160920740-59803cb0-9e68-4e75-a93d-77b703f21ae6.gif'}
           tech="react js html css "
-          repo="https://github.com/amarodf/dashboard_port/tree/master"
+          repo="https://github.com/amarodf/portfolio-meu"
         >
           <small>
             HTML, CSS, Javascript e React.
           </small>
           <p>
-            Repositório do portfolio para mostar projetos.
+            Repositório do website do portfólio.
           </p>
         </Project>
       </div>

@@ -9,7 +9,7 @@ function navbar() {
         </div>
         <div className='nav_links'>
           <a href='#contact' className='nav_link'>Contato</a>
-          <a href='./amaroferreira.docx.pdf' download="cv" className='nav_button'>Download CV</a>
+          <a href='https://drive.google.com/file/d/1RlLiA25EP-DSGPLMO_FKx5Hdm76dujd8/view?usp=sharing' className='nav_button'>Currículo</a>
         </div>
     </nav>
   )
